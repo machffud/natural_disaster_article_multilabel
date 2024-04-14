@@ -1,0 +1,1 @@
+This dataset consists of a collection of natural disaster articles collected by scraping from Online Media in the study by Putra et al (2020). Initially, the data was in single-label binary classification format, but upon further investigation in the study by Vova et al (2023), it was found that the data should be multilabel multiclass classification.
